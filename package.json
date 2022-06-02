@@ -1,0 +1,20 @@
+{
+  "name": "nginx-dev-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nginx Service for Local Development",
+  "scripts": {
+    "nginx": "docker-compose up -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semibold/Nginx-Dev-Service.git"
+  },
+  "keywords": [],
+  "author": "Aqours",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Semibold/Nginx-Dev-Service/issues"
+  },
+  "homepage": "https://github.com/Semibold/Nginx-Dev-Service#readme"
+}
