@@ -4,7 +4,7 @@
   "private": true,
   "description": "Nginx Service for Local Development",
   "scripts": {
-    "nginx": "docker-compose up -d"
+    "nginx": "docker-compose up -d nginx"
   },
   "repository": {
     "type": "git",
